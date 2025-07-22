@@ -400,9 +400,6 @@ This analysis successfully identified key patterns in Uber ride data that can in
 The project demonstrates strong data analysis fundamentals, from initial exploration through final presentation, and provides actionable recommendations based on statistical evidence from nearly 190,000 ride records.
 
 ---
-
-**Project Status:** ✅ Complete  
+  
 **Last Updated:** July 2025  
 **Dashboard Access:** Available in repository as .pbix file
-
-*For questions or additional analysis requests, please refer to the course instructor or repository documentation.*
