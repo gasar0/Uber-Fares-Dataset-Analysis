@@ -401,5 +401,5 @@ The project demonstrates strong data analysis fundamentals, from initial explora
 
 ---
   
-**Last Updated:** 25th July 2025  
+**Last Updated:** July 2025  
 **Dashboard Access:** Available in repository as .pbix file
