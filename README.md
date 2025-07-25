@@ -7,7 +7,7 @@ This project analyzes Uber ride data to uncover patterns in fare pricing, ride p
 **Course:** Introduction to Big Data Analytics (INSY 8413)  
 **Instructor:** Eric Maniraguha  
 **Student:** NISHIMWE GASARO M. Nicole  
-**Date:** July 2025  
+**Date:** 25th July 2025  
 
 ---
 
@@ -401,5 +401,5 @@ The project demonstrates strong data analysis fundamentals, from initial explora
 
 ---
   
-**Last Updated:** July 2025  
+**Last Updated:** 25th July 2025  
 **Dashboard Access:** Available in repository as .pbix file
